@@ -117,3 +117,10 @@ nav input:hover{
     width: 190px;
 }
 
+.search i{
+    position: absolute;
+    color: #d4c9c7;
+    font-size: 20px;
+    bottom: -9px;
+    right: -30px;
+}
