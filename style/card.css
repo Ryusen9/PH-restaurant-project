@@ -47,7 +47,7 @@
     height: 50%;
     width: 100%;
     border-radius: 10px;
-    background-image: url("./assets/pizza.png");
+    background-image: url("/assets/pizza.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@
     height: 50%;
     width: 100%;
     border-radius: 10px;
-    background-image: url("./assets/biriyani.png");
+    background-image: url("/assets/biriyani.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -101,7 +101,7 @@
     height: 50%;
     width: 100%;
     border-radius: 10px;
-    background-image: url("./assets/burger.png");
+    background-image: url("/assets/burger.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;  
